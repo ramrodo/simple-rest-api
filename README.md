@@ -20,8 +20,8 @@ States of Mexico supported at the moment:
 **NOTE:** This information is retrieved from [https://datos.cdmx.gob.mx](https://datos.cdmx.gob.mx).
 
 
-## Requirements to build
-- Node 10.x
+## Build requirements
+- NodeJS 10.x
 
 ## Execute the API
 
