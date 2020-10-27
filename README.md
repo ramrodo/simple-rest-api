@@ -17,7 +17,7 @@ States of Mexico supported at the moment:
 - oaxaca
 - puebla
 
-**NOTE:** This information is retrieved from `https://datos.cdmx.gob.mx`.
+**NOTE:** This information is retrieved from [https://datos.cdmx.gob.mx](https://datos.cdmx.gob.mx).
 
 
 ## Requirements to build
